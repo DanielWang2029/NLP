@@ -1,0 +1,8 @@
+numpy
+nltk
+pandas
+spacy==2.3.5
+bs4
+bing_image_downloader
+textblob
+vaderSentiment
